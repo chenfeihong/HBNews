@@ -1,3 +1,4 @@
+//测试version 1.0
 var old_x = 0;
 var old_y = 0;//用来保存旧的坐标的变量
 var molestLW = {
